@@ -132,3 +132,11 @@ function gcd(a, b) {
 최종 방문 결과는 같다고 해도, 방문 순서에서 차이가 있다.
 
 거리를 계산할 때는 BFS를 사용하는 것이 좋다. BFS 에서는 현재 보는 칸으로부터 추가되는 인접한 칸은 현재 보는 칸보다 1만큼 떨어져 있기 때문이다.
+
+# 참고 링크
+
+[BFS](https://blog.encrypted.gg/941)
+
+[DFS](https://blog.encrypted.gg/942)
+
+[DFS & BFS](https://www.youtube.com/watch?v=7C9RgOcvkvo)
