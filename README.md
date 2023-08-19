@@ -14,3 +14,11 @@
 ## HASH
 
 [해시란?](./hash/hash.md)
+
+## 정렬
+
+[정렬이란?](./sort/sort.md)
+
+## BFS & DFS
+
+[BFS & DFS란?](./BFS&DFS/BFS&DFS.md)
